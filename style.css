@@ -1,0 +1,15 @@
+
+
+
+
+div:hover {
+	background-color:red;
+	}
+
+div.conClase:hover {
+	background-color:blue;
+	}	
+
+h2 {
+	color:green;
+}
